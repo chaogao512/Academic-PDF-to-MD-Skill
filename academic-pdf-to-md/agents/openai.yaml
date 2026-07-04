@@ -1,0 +1,4 @@
+interface:
+  display_name: "Academic PDF to MD"
+  short_description: "学术论文 PDF 转双轨 Markdown 与质检"
+  default_prompt: "Use $academic-pdf-to-md to convert this academic PDF into raw and cleaned Markdown with quality checks."
